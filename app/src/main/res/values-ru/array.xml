@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="point">
+        <item> </item>
+        <item>сто</item>
+        <item>тысяча</item>
+        <item>миллион</item>
+        <item>миллиард</item>
+        <item>триллион</item>
+    </string-array>
+
+    <string-array name="oneTwenty">
+        <item>ноль</item>
+        <item>один</item>
+        <item>два</item>
+        <item>три</item>
+        <item>четыре</item>
+        <item>пять</item>
+        <item>шесть</item>
+        <item>семь</item>
+        <item>восемь</item>
+        <item>девять</item>
+        <item>десять</item>
+        <item>одинадцать</item>
+        <item>двенадцать</item>
+        <item>тринадцать</item>
+        <item>четырнадцать</item>
+        <item>пятнадцать</item>
+        <item>шестнадцать</item>
+        <item>семьнадцать</item>
+        <item>восемнадцать</item>
+        <item>девятнадцать</item>
+    </string-array>
+
+    <string-array name="tens">
+        <item>десять</item>
+        <item>двадцать</item>
+        <item>тридцать</item>
+        <item>сорок</item>
+        <item>пятьдесят</item>
+        <item>шестьдесят</item>
+        <item>семьдесят</item>
+        <item>восемьдесят</item>
+        <item>девяносто</item>
+
+    </string-array>
+
+
+</resources>

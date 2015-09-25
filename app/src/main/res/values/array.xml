@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="point">
+        <item> </item>
+        <item>hundred</item>
+        <item>thousand</item>
+        <item>million</item>
+        <item>billion</item>
+        <item>trillion</item>
+    </string-array>
+
+    <string-array name="oneTwenty">
+        <item>zero</item>
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>foue</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+        <item>eleven</item>
+        <item>twelve</item>
+        <item>thirteen</item>
+        <item>fourteen</item>
+        <item>fivteen</item>
+        <item>sixteen</item>
+        <item>seventeen</item>
+        <item>eighteen</item>
+        <item>nineteen</item>
+    </string-array>
+
+    <string-array name="tens">
+        <item>ten</item>
+        <item>twenty</item>
+        <item>thirty</item>
+        <item>forty</item>
+        <item>fifty</item>
+        <item>sixty</item>
+        <item>seventy</item>
+        <item>eigthty</item>
+        <item>ninety</item>
+
+    </string-array>
+
+
+</resources>
